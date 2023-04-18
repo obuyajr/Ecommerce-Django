@@ -9,12 +9,6 @@ To run the application locally, you will need to have Python 3 and Flask install
 Clone this repository to your local machine
 
 Features
-Product catalog with categories and search functionality
-Shopping cart with the ability to add and remove items
-User authentication and registration
-Order history with details on past purchases
-Admin dashboard for managing products and orders
-Stripe payment integration
 
 The application directory contains the application settings and configuration.
 The products directory contains the product catalog functionality.
